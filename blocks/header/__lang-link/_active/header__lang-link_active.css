@@ -1,0 +1,9 @@
+.header__lang-link_active:visited {
+  text-decoration: underline;
+  color: #FFFFFF;
+}
+
+.header__lang-link_active:visited:hover {
+  opacity: 1;
+  cursor: default;
+}
