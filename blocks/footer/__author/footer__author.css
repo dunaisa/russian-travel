@@ -6,15 +6,7 @@
   margin: 0;
 }
 
-@media screen and (min-width: 425px) and (max-width: 767px) {
-
-  .footer__author {
-    font-size: 14px;
-    line-height: 14px;
-  }
-}
-
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 767px) {
 
   .footer__author {
     font-size: 14px;
